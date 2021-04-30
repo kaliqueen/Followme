@@ -37,7 +37,7 @@ def jalan(z):
 		time.sleep(00000.1)
 ##### LOGO #####
 logo = """
-   Isha Rani
+    Rani
    ▄︻̷̿┻̿═━一
    THE ANONYMOUS lovehacker TRICKER 
    THE LEGEND ℒℴνℯ
